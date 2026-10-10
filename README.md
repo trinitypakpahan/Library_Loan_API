@@ -167,6 +167,6 @@ PORT=3000
 
 API sudah di-deploy ke Vercel dan dapat diakses publik di:
 
-**<LINK-VERCEL>**
+https://library-loan-iyslpoft0-trinitypakpahans-projects.vercel.app/
 
 Contoh: `<LINK-VERCEL>/loans?status=Terlambat`
