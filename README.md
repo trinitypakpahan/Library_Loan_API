@@ -149,9 +149,9 @@ Response `200 OK`:
 3. Buat project di [Supabase](https://supabase.com/), lalu jalankan SQL pada bagian Struktur Data di SQL Editor.
 4. Buat file `.env` di root project:
 ```
-   SUPABASE_URL=https://pfcxojhrpvhyuiflsgmn.supabase.co
-   SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmY3hvamhycHZoeXVpZmxzZ21uIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE2MzU0ODgsImV4cCI6MjEwNzIxMTQ4OH0.NUq5HTQkbWgyxgGHK24pt4Z4aj86_7z1-ioHjZexzzA
-   PORT=3000
+   SUPABASE_URL=isi_project_url_supabase
+SUPABASE_KEY=isi_anon_public_key_supabase
+PORT=3000
 ```
 5. Jalankan server
 ```bash
